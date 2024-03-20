@@ -1,0 +1,47 @@
+#body {
+    background-color: #FFD1DC;
+}
+
+#pic{
+    display: block;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    font-size: large;
+    margin-bottom: 40px;
+}
+
+.images{
+    display: inline;
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+#i,#n{
+    margin-left:8px
+}
+h4{
+    margin-bottom: 5px;
+}
+#try{
+    margin-bottom: 20px;
+}
+hr{
+    border-width: 1.5px;
+    border-color: black;
+}
+#address{
+    margin:0
+}
+
+#contact{
+    margin-top: 2px;
+    font-size: large;
+}
